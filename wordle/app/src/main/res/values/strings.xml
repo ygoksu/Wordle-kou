@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">wordle</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string-array name="Odalar">
+        <item>4 Harfli</item>
+        <item>5 Harfli</item>
+        <item>6 Harfli</item>
+        <item>7 Harfli</item>
+    </string-array>
+</resources>

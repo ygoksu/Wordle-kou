@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "572488045068",
+    "project_id": "wordle-7c8fc",
+    "storage_bucket": "wordle-7c8fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572488045068:android:1ba74f5590aafbe487d429",
+        "android_client_info": {
+          "package_name": "com.example.wordle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgAmLkZfZsv7hxMP8ytLdtWwFNao_Waas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
